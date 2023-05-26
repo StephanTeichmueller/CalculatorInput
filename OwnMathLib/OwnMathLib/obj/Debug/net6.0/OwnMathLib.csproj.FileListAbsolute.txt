@@ -1,0 +1,12 @@
+C:\Users\Stephan\source\repos\OwnMathLib\OwnMathLib\bin\Debug\net6.0\OwnMathLib.deps.json
+C:\Users\Stephan\source\repos\OwnMathLib\OwnMathLib\bin\Debug\net6.0\OwnMathLib.dll
+C:\Users\Stephan\source\repos\OwnMathLib\OwnMathLib\bin\Debug\net6.0\OwnMathLib.pdb
+C:\Users\Stephan\source\repos\OwnMathLib\OwnMathLib\obj\Debug\net6.0\OwnMathLib.csproj.AssemblyReference.cache
+C:\Users\Stephan\source\repos\OwnMathLib\OwnMathLib\obj\Debug\net6.0\OwnMathLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephan\source\repos\OwnMathLib\OwnMathLib\obj\Debug\net6.0\OwnMathLib.AssemblyInfoInputs.cache
+C:\Users\Stephan\source\repos\OwnMathLib\OwnMathLib\obj\Debug\net6.0\OwnMathLib.AssemblyInfo.cs
+C:\Users\Stephan\source\repos\OwnMathLib\OwnMathLib\obj\Debug\net6.0\OwnMathLib.csproj.CoreCompileInputs.cache
+C:\Users\Stephan\source\repos\OwnMathLib\OwnMathLib\obj\Debug\net6.0\OwnMathLib.dll
+C:\Users\Stephan\source\repos\OwnMathLib\OwnMathLib\obj\Debug\net6.0\refint\OwnMathLib.dll
+C:\Users\Stephan\source\repos\OwnMathLib\OwnMathLib\obj\Debug\net6.0\OwnMathLib.pdb
+C:\Users\Stephan\source\repos\OwnMathLib\OwnMathLib\obj\Debug\net6.0\ref\OwnMathLib.dll
